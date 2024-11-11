@@ -27,7 +27,7 @@ if (empty($_SESSION["id"])) {
                     <ul class="nav">
                         <li class="nav-item"><a href="./lista_cliente.php" class="nav-link text-white">Clientes</a></li>
                         <li class="nav-item"><a href="#" class="nav-link text-white">Salas</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link text-white">Reservas</a></li>
+                        <li class="nav-item"><a href="./registrar_Reservacion.php" class="nav-link text-white">Reservas</a></li>
                         <li class="nav-item"><a href="#" class="nav-link text-white">Pagos</a></li>
                         <li class="nav-item"><a href="#" class="nav-link text-white">Reportes</a>
                         </li>
